@@ -1,8 +1,6 @@
 ![khobor by zerobizz logo](https://raw.githubusercontent.com/zerobizz/khobor/main/assets/khobor_favicon_128.webp)
 # Khobor by ZeroBizz
 Khobor is an initiative by ZeroBizz to provide the best quality financial news for investors in native Bengali language.
-
-![zerobizz khobor screenshot banner](https://zerobizz.github.io/khobor/assets/khobor_landing_banner.webp)
 ### Available on
 [Web](https://khobor.zerobizz.com/), [Android](https://zerobizz.github.io/khobor/download/android/)
 ### Description:
